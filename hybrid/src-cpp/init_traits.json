@@ -1,0 +1,14 @@
+{
+   "b_primary" : 0.8,
+   "b_metastatic" : 0.8,
+   "b_mutant" : 0.8,
+   "d_primary" : 0.6,
+   "d_metastatic" : 0.6,
+   "d_mutant" : 0.6,
+   "t" : 0.6,
+   "k_primary" : 1000,
+   "k_metastatic" : 1000,
+   "k_mutant" : 10000,
+   "m" : 0.0001,
+   "g" : 0.000134
+}

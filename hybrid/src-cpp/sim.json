@@ -1,0 +1,15 @@
+{
+  "num_sims" : 1,
+  "threshold" : 100,
+  "init_n" : 400,
+  "target" : 3000.0,
+  "max_time" : 500.0,
+  "max_events" : 150000,
+  "res" : 10,
+  "dt" : 0.1,
+  "printmode" : 0,
+  "pre" : "_test",
+  "traitfile" : "init_traits.json",
+  "seeds" : [65535]
+}
+
